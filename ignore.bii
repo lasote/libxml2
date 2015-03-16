@@ -1,0 +1,8 @@
+VxWorks/*
+bakefile/*
+optim/*
+python/*
+result/*
+vms/*
+xstc/*
+*.py

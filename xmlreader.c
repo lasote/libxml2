@@ -5689,7 +5689,7 @@ xmlBase64Decode(const unsigned char *in, unsigned long *inlen,
  */
 #if 0
 int
-_main(int argc, char **argv)
+main(int argc, char **argv)
 {
     char *input = "  VW4 gcGV0        \n      aXQgdGVzdCAuCg== ";
 

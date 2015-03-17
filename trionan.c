@@ -806,7 +806,7 @@ TRIO_ARGS2((prefix, number),
 	 number);
 }
 
-int __main(TRIO_NOARGS)
+int main(TRIO_NOARGS)
 {
   double my_nan;
   double my_pinf;
